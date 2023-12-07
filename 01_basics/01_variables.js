@@ -1,7 +1,7 @@
 const accountId = 144553;
 let accountEmail = "email@gmail.com";
 var accountPassword = "12345";
-accountCity = "Patna";
+accountCity = "Patna"; // we can print but not recommended
 let accountState;
 
 // accountId = 2;  //not allowed
