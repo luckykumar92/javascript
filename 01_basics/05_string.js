@@ -38,5 +38,5 @@ console.log(url.includes("sundar")); //false
 let gameName3 = new String("Lucky-Kumar-zxc");
 console.log(gameName3.split("-")); //[ 'Lucky', 'Kumar', 'zxc' ]
 
-
-//---------Go to mdn docs and read all the string type , eg: trim,replace....
+//---------Go to console look at string type then go to
+//  mdn docs and read all the string type, eg: trim, replace....
